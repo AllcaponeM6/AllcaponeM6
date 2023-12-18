@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AllcaponeM6
+- 👀 I’m interested in smart-contracts.
+- 🌱 I’m currently learning cairo-code.
+- 📫 How to reach me: my telegram - @allcapone88
